@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This project focuses on predicting house prices using **Google Colab**. Various machine learning algorithms have been implemented to compare their performance in regression tasks.
+This project focuses on predicting house prices using **Python**. Various machine learning algorithms have been implemented to compare their performance in regression tasks.
 
 ## Algorithms Used
 - Multiple Linear Regression
